@@ -1,0 +1,9 @@
+h1{
+    background: linear-gradient(50deg,red , blue, yellow);
+    
+
+}
+h2{
+    border: 5px solid blue;
+    box-shadow:  5px 5px blue;;
+}
